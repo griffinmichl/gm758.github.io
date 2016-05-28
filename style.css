@@ -1,0 +1,33 @@
+.body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+p {
+  font-size: 16px;
+}
+
+a {
+  font-decoration: none;
+  color: black;
+}
+
+.header {
+  background-image: url("ggb.jpg");
+  background-size: cover;
+  height: 15em;
+  width: 100%
+}
+
+.title {
+  text-align: center;
+}
+
+.sub-title {
+  text-align: center;
+  color: grey;
+}
+
+.icon-container {
+  display: flex;
+  justify-content: space-between;
+}
