@@ -26,9 +26,11 @@ a {
 .sub-title {
   text-align: center;
   color: grey;
+  margin-bottom: 1em;
 }
 
 .icon-container {
   display: flex;
   justify-content: space-between;
 }
+
