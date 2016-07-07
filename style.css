@@ -33,6 +33,7 @@ a {
 }
 
 .icon-container {
+  display: -webkit-flex;
   display: flex;
   justify-content: space-between;
 }
