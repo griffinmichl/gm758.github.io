@@ -39,3 +39,6 @@ a {
   justify-content: space-between;
 }
 
+.content {
+  text-align: justify;
+}
